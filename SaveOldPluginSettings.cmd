@@ -1,6 +1,10 @@
 @echo off
 @echo off
 @echo off
+@echo off
+@echo off
+@echo off
+
 :: This batch file saves Far Old Plugin settings from the registry
 :: to files OldPluginSettings.*.reg
 
